@@ -1,0 +1,32 @@
+{
+  "name": "ee3.today",
+  "version": "1.0.0",
+  "description": "Can I use ExpressionEngine 3 today?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryanburgers/ee3today.git"
+  },
+  "author": "Bryan Burgers <bryan@burgers.io> (https://burgers.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanburgers/ee3today/issues"
+  },
+  "homepage": "https://github.com/bryanburgers/ee3today",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.1.0",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^0.17.0"
+  },
+  "dependencies": {
+    "replacestream": "^1.0.2"
+  },
+  "engines": {
+    "node": "~0.10"
+  }
+}
