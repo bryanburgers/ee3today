@@ -102,6 +102,11 @@ main {
 			color: #999;
 		}
 	}
+
+	p {
+		position: relative;
+		z-index: 2;
+	}
 }
 
 h1 {
