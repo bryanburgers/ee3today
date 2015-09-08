@@ -26,7 +26,7 @@ module.exports = function(grunt) {
 			},
 			dist: {
 				options: {
-					browsers: ['> 1%', 'last 2 version', 'ie 9', 'android 2', 'android 4']
+					browsers: ['> 1%', 'last 2 version', 'ie 9', 'android 2.1', 'android 2.2', 'android 2.3', 'android 4']
 				},
 				files: {
 					'css/yes.css': 'css/tmp/yes.css',
