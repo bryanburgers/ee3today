@@ -21,7 +21,7 @@
     "grunt-autoprefixer": "^2.1.0",
     "grunt-contrib-uglify": "^0.7.0",
     "grunt-contrib-watch": "^0.6.1",
-    "grunt-sass": "^0.17.0"
+    "grunt-sass": "^1.0.0"
   },
   "dependencies": {
     "replacestream": "^1.0.2"
